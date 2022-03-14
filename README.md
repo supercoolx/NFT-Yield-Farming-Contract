@@ -31,7 +31,7 @@ $ npm install
 ### ② Add `.env` to the root directory.
 - Please copy code of `.env.example` into your `.env` 
   (Then, please input your information of wallets, private keys, etc... by following code of `.env.example` )
-https://github.com/masaun/NFT-yield-farming/blob/main/.env.example  
+https://github.com/supercoolx/NFT-Yield-Faming-Contract/blob/main/.env.example  
 
 <br>
 
@@ -72,9 +72,9 @@ https://docs.binance.org/smart-chain/developer/rpc.html
 ↓
 - Then, please replace `BSC RPC Endpoints` for 2 files below.
   - truffle-config.js
-    https://github.com/masaun/NFT-yield-farming/blob/main/truffle-config.js#L9
+    https://github.com/supercoolx/NFT-Yield-Faming-Contract/blob/main/truffle-config.js#L9
   - NFTYieldFarmingOnBSC.script.js
-    https://github.com/masaun/NFT-yield-farming/blob/main/scripts/script-bsc/NFTYieldFarmingOnBSC.script.js#L5
+    https://github.com/supercoolx/NFT-Yield-Faming-Contract/blob/main/scripts/script-bsc/NFTYieldFarmingOnBSC.script.js#L5
 
 <br>
 

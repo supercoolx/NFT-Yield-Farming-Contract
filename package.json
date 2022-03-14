@@ -1,5 +1,5 @@
 {
-  "name": "NFT-yield-farming",
+  "name": "NFT-Yield-Farming",
   "version": "1.0.0",
   "description": "",
   "directories": {
@@ -12,7 +12,7 @@
     "migrate:bsc-testnet": "truffle migrate --reset --network bsc_testnet",
     "start-blank": "rm -rf client/src && cp -rf barebones/src client/"
   },
-  "author": "masaun",
+  "author": "supercoolx",
   "license": "MIT",
   "dependencies": {
     "@openzeppelin/contracts": "^3.2.0",
